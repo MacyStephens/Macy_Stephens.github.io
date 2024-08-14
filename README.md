@@ -1,2 +1,2 @@
 # MacyStephens.github.io
-FinalPortfolio
+Macy Stephens Portfolio
